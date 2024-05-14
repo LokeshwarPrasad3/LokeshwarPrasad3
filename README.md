@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokeshwar Dewangan</h1>
+<h1 align="center">Hi 👋, I'm Lokeshwar Prasad Dewangan</h1>
 <h3 align="center">I'm a dedicated Full Stack Developer with 3rd Year BTech in Computer Science. Actively seeking new opportunities in software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshwarprasad3&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshwarprasad3" /> </p>

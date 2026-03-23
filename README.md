@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokeshwar Prasad Dewangan</h1>
 <h3 align="center">Software developer building scalable, production-ready web applications with React, Next.js, and Node.js, using Prisma with PostgreSQL, MongoDB, and AWS.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshwarprasad3&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshwarprasad3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshwardewangan&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshwardewangan" /> </p>
 
 ## 🌐 Socials:
 
@@ -21,11 +21,11 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LokeshwarPrasad3&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshwardewangan&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshwarPrasad3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshwardewangan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokeshwarPrasad3&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshwardewangan&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LokeshwarPrasad3&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshwardewangan&theme=github-dark" />
 </p>
 
 
